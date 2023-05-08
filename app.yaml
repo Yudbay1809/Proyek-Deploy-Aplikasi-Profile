@@ -1,4 +1,4 @@
-runtime: php55
+runtime: python27
 
 handlers:
 - url: /static
